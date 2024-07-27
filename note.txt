@@ -1,1 +1,3 @@
 version 1
+git status
+mai anh
